@@ -1,0 +1,15 @@
+C:\Users\peema\source\repos\WPF-PropertyDataAndEventTriggers\WPF-PropertyDataAndEventTriggers\bin\Debug\WPF-PropertyDataAndEventTriggers.exe.config
+C:\Users\peema\source\repos\WPF-PropertyDataAndEventTriggers\WPF-PropertyDataAndEventTriggers\bin\Debug\WPF-PropertyDataAndEventTriggers.exe
+C:\Users\peema\source\repos\WPF-PropertyDataAndEventTriggers\WPF-PropertyDataAndEventTriggers\bin\Debug\WPF-PropertyDataAndEventTriggers.pdb
+C:\Users\peema\source\repos\WPF-PropertyDataAndEventTriggers\WPF-PropertyDataAndEventTriggers\obj\Debug\WPF-PropertyDataAndEventTriggers.csprojAssemblyReference.cache
+C:\Users\peema\source\repos\WPF-PropertyDataAndEventTriggers\WPF-PropertyDataAndEventTriggers\obj\Debug\MainWindow.g.cs
+C:\Users\peema\source\repos\WPF-PropertyDataAndEventTriggers\WPF-PropertyDataAndEventTriggers\obj\Debug\App.g.cs
+C:\Users\peema\source\repos\WPF-PropertyDataAndEventTriggers\WPF-PropertyDataAndEventTriggers\obj\Debug\WPF-PropertyDataAndEventTriggers_MarkupCompile.cache
+C:\Users\peema\source\repos\WPF-PropertyDataAndEventTriggers\WPF-PropertyDataAndEventTriggers\obj\Debug\WPF-PropertyDataAndEventTriggers_MarkupCompile.lref
+C:\Users\peema\source\repos\WPF-PropertyDataAndEventTriggers\WPF-PropertyDataAndEventTriggers\obj\Debug\MainWindow.baml
+C:\Users\peema\source\repos\WPF-PropertyDataAndEventTriggers\WPF-PropertyDataAndEventTriggers\obj\Debug\WPF-PropertyDataAndEventTriggers.g.resources
+C:\Users\peema\source\repos\WPF-PropertyDataAndEventTriggers\WPF-PropertyDataAndEventTriggers\obj\Debug\WPF_PropertyDataAndEventTriggers.Properties.Resources.resources
+C:\Users\peema\source\repos\WPF-PropertyDataAndEventTriggers\WPF-PropertyDataAndEventTriggers\obj\Debug\WPF-PropertyDataAndEventTriggers.csproj.GenerateResource.cache
+C:\Users\peema\source\repos\WPF-PropertyDataAndEventTriggers\WPF-PropertyDataAndEventTriggers\obj\Debug\WPF-PropertyDataAndEventTriggers.csproj.CoreCompileInputs.cache
+C:\Users\peema\source\repos\WPF-PropertyDataAndEventTriggers\WPF-PropertyDataAndEventTriggers\obj\Debug\WPF-PropertyDataAndEventTriggers.exe
+C:\Users\peema\source\repos\WPF-PropertyDataAndEventTriggers\WPF-PropertyDataAndEventTriggers\obj\Debug\WPF-PropertyDataAndEventTriggers.pdb
